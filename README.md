@@ -2,7 +2,7 @@
 # 🍨 SaborArt Açai New
 Criando um site completo ecommerce Delivery de Açai com React e CSS
 ## 🍧 Indrodução 
-A interface apresenta um design padrão baseado em um outro projeto na qual criei, estilizado com CSS puro. O projeto possui filtros no menu onde o usuario consegue escolher o tipo de item na qual mais te agrada para comprar, apos o click no icon de + o usuario consegue ter acesso ao valor somado no carrinho de compras, verificar as informações pessoais e comprar oproduto. Além de conseguir se cadastrar pelo icone de cadastrar na lado superior direito da ineterface.
+A interface apresenta um design padrão baseado em um outro projeto na qual criei, estilizado com CSS puro. O projeto possui filtros no menu onde o usuário consegue escolher o tipo de item na qual mais te agrada para comprar, apos o click no icon de + o usuário consegue ter acesso ao valor somado no carrinho de compras, verificar as informações pessoais e comprar o produto. Além de conseguir se cadastrar pelo ícone de cadastrar na lado superior direito da interface.
 ### 💡 Pre-Requisitos
 * Intalação do React com vite
 ```
